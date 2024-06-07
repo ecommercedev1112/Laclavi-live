@@ -163,6 +163,21 @@
         "show_vendor": true,
         "grid": 4
       }
+    },
+    "17176827660ff18a51": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_review_widget_zzMiyY": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_review_widget_zzMiyY"
+      ],
+      "settings": {
+        "full_width": false
+      }
     }
   },
   "order": [
@@ -171,6 +186,7 @@
     "rich_text_4Ptitz",
     "product_info_accordion_664tJP",
     "recommendations",
-    "recently"
+    "recently",
+    "17176827660ff18a51"
   ]
 }
